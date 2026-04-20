@@ -7,26 +7,28 @@ The goal is to design a clean, modern, and user-friendly experience for browsing
 ---
 
 ## 🎯 Purpose
-- Practice UI/UX design skills
-- Design a real-world rental platform flow
-- Improve mobile app design thinking (user journey, usability)
+- Practice UI/UX design skills  
+- Design a real-world rental platform flow  
+- Improve mobile app design thinking (user experience & usability)
 
 ---
 
 ## 🎨 Design Tool
 - Figma
 
-🔗 Figma Design Link:  
+## 🔗 Figma Design Link
 https://www.figma.com/design/bUrooN7b7pBsaseAvjLPD0/rentalapp
 
 ---
 
 ## 📱 App Features (UI Design)
-- 🏠 Home screen with property listings
-- 🔍 Search & filter properties
-- 📄 Property detail page
-- 📅 Booking / rental flow
-- 👤 User profile screen
+- 🏠 Home screen with property listings  
+- 🔍 Search & filter properties  
+- 📄 Property detail page  
+- 📅 Booking / rental flow  
+- 👤 User profile screen  
 
 ---
 
+## 👤 Author
+Phutithorn Trisat
